@@ -62,3 +62,5 @@ Runs 5 parallel threads to improve execution time.
 The BrowserStack Test Report (PDF) contains the results of cross-browser testing.
 
 It documents test cases, execution logs, and screenshots.
+
+[Public Link of Test Report] (https://automate.browserstack.com/dashboard/v2/public-build/V04xejVEYUpzZmc1YVB4VkFFa3FwZjd4SVJLbXhLOS80UlNTbFlmM2Ywcm1qWmR2Um11UGx4UFZwRExDTzZ0TjFnQTBJa1pMbDFFSGV2cDl6NVA5eFE9PS0tSmF2ZXQ0ei94QnN2M2o2VUd5OStqUT09--40646db6c26241a78b3a40faa9659434a8658849)
